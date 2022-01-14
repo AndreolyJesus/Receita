@@ -1,4 +1,7 @@
-Alicate
-Alicate de corte
-serra 
-tesoura
+Alicate de bico.
+Alicate de corte.
+Serra. 
+Tesoura.
+Chave de fenda.
+Chave estrela.
+Parafusadeira eletrica.
